@@ -1,0 +1,22 @@
+{
+  "title": "Exercise: Student Grades",
+  "description": "",
+  "filepath": "Lists/Exercise-Student-Grades/Exercise-Student-Grades.zip",
+  "author": "",
+  "timeCreated": "2024-04-17T12:31:58.957Z",
+  "timeUpdated": "2024-04-17T14:05:14.416Z",
+  "isGroupProject": false,
+  "dueDate": "",
+  "isPublished": false,
+  "templateTests": [
+    {
+      "name": "test 1",
+      "input": "",
+      "output": "91.67\n87.33\n86.33\n86.0",
+      "type": "exact",
+      "timeCreated": "2024-04-22T11:00:18.584Z",
+      "timeUpdated": "2024-04-22T11:00:18.584Z"
+    }
+  ],
+  "unitTests": []
+}

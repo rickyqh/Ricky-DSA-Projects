@@ -1,0 +1,22 @@
+{
+  "title": "Exercise: Fruits Inventory",
+  "description": "",
+  "filepath": "Dictionaries/Exercise-Fruits-Inventory/Exercise-Fruits-Inventory.zip",
+  "author": "",
+  "timeCreated": "2024-03-30T15:16:07.193Z",
+  "timeUpdated": "2024-04-18T09:02:42.634Z",
+  "isGroupProject": false,
+  "dueDate": "",
+  "isPublished": false,
+  "templateTests": [
+    {
+      "name": "test 1",
+      "input": "",
+      "output": "Combined Inventory: {'Apples': 60, 'Bananas': 30, 'Oranges': 20, 'Pineapples': 20, 'Pears': 30, 'Grapes': 55}\nRestock Items: {'Oranges': 20, 'Pineapples': 20}\nLarge Stock Items: {'Apples': 60, 'Grapes': 55}\nSorted Inventory: {'Oranges': 20, 'Pineapples': 20, 'Bananas': 30, 'Pears': 30, 'Grapes': 55, 'Apples': 60}",
+      "type": "match",
+      "timeCreated": "2024-03-30T15:16:07.204Z",
+      "timeUpdated": "2024-03-30T15:16:07.204Z"
+    }
+  ],
+  "unitTests": []
+}

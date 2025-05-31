@@ -1,0 +1,38 @@
+{
+    "title": "Exercise: Phone Book",
+    "description": "",
+    "filepath": "Dictionaries/Exercise-Phone-Book/Exercise-Phone-Book.zip",
+    "author": "",
+    "timeCreated": "2024-03-15T17:15:53.835Z",
+    "timeUpdated": "2024-04-07T08:00:28.177Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": false,
+    "templateTests": [
+        {
+            "name": "Test 1",
+            "input": "Jerome",
+            "output": "The number for Jerome is 98765432",
+            "type": "match",
+            "timeCreated": "2024-04-07T06:55:11.275Z",
+            "timeUpdated": "2024-04-07T06:55:11.275Z"
+        },
+        {
+            "name": "Test 2",
+            "input": "Jill",
+            "output": "The number for Jill is 90904554",
+            "type": "match",
+            "timeCreated": "2024-04-07T06:55:52.388Z",
+            "timeUpdated": "2024-04-07T06:55:52.388Z"
+        },
+        {
+            "name": "Test 3",
+            "input": "Jimmy",
+            "output": "Sorry, that name is not in the phonebook.",
+            "type": "match",
+            "timeCreated": "2024-04-07T06:56:16.022Z",
+            "timeUpdated": "2024-04-07T06:56:16.022Z"
+        }
+    ],
+    "unitTests": []
+}

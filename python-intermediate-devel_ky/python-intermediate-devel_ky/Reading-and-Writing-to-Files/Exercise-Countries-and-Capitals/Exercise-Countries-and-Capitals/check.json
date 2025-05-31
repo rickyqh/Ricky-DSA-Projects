@@ -1,0 +1,22 @@
+{
+  "title": "Exercise: Countries and Capitals",
+  "description": "",
+  "filepath": "Reading-and-Writing-to-Files/Exercise-Countries-and-Capitals/Exercise-Countries-and-Capitals.zip",
+  "author": "",
+  "timeCreated": "2024-04-22T16:04:44.146Z",
+  "timeUpdated": "2024-04-23T13:40:31.510Z",
+  "isGroupProject": false,
+  "dueDate": "",
+  "isPublished": false,
+  "templateTests": [
+    {
+      "name": "test 1",
+      "input": "",
+      "output": "The capital of United States is Washington D.C..\nThe capital of Canada is Ottawa.\nThe capital of United Kingdom is London.\nThe capital of Australia is Canberra.\nThe capital of Germany is Berlin.\nThe capital of France is Paris.\nThe capital of Japan is Tokyo.\nThe capital of China is Beijing.\nThe capital of India is New Delhi.\nThe capital of Brazil is Brasilia.",
+      "type": "match",
+      "timeCreated": "2024-04-22T16:04:44.156Z",
+      "timeUpdated": "2024-04-22T16:04:44.156Z"
+    }
+  ],
+  "unitTests": []
+}

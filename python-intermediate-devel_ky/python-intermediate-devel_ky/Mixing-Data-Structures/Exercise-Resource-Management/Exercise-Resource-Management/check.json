@@ -1,0 +1,38 @@
+{
+  "title": "Exercise: Resource Management",
+  "description": "",
+  "filepath": "Mixing-Data-Structures/Exercise-Resource-Management/Exercise-Resource-Management.zip",
+  "author": "",
+  "timeCreated": "2024-04-22T13:19:14.008Z",
+  "timeUpdated": "2024-04-22T14:27:53.415Z",
+  "isGroupProject": false,
+  "dueDate": "",
+  "isPublished": false,
+  "templateTests": [
+    {
+      "name": "test 1",
+      "input": "R007",
+      "output": "Enter a resource ID to get its details: Resource Details - Name: Conference Room, Department: Shared, Priority: High",
+      "type": "match",
+      "timeCreated": "2024-04-22T13:19:14.020Z",
+      "timeUpdated": "2024-04-22T13:19:14.019Z"
+    },
+    {
+      "name": "test 2",
+      "input": "R003",
+      "output": "Enter a resource ID to get its details: Resource Details - Name: Server, Department: IT, Priority: Critical",
+      "type": "match",
+      "timeCreated": "2024-04-22T13:19:14.020Z",
+      "timeUpdated": "2024-04-22T13:19:14.019Z"
+    },
+    {
+      "name": "test 3",
+      "input": "ER01",
+      "output": "Enter a resource ID to get its details: Resource ID not found.",
+      "type": "match",
+      "timeCreated": "2024-04-22T13:19:14.020Z",
+      "timeUpdated": "2024-04-22T13:19:14.019Z"
+    }
+  ],
+  "unitTests": []
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Exercise: name reading",
+  "description": "",
+  "filepath": "Reading-and-Writing-to-Files/Exercise-name-reading/Exercise-name-reading.zip",
+  "author": "",
+  "timeCreated": "2024-04-22T15:26:01.883Z",
+  "timeUpdated": "2024-04-22T16:01:54.179Z",
+  "isGroupProject": false,
+  "dueDate": "",
+  "isPublished": false,
+  "templateTests": [
+    {
+      "name": "test 1",
+      "input": "",
+      "output": "Alice\nBob\nCharlie\nDavid\nEva",
+      "type": "match",
+      "timeCreated": "2024-04-22T15:26:01.906Z",
+      "timeUpdated": "2024-04-22T15:26:01.906Z"
+    }
+  ],
+  "unitTests": []
+}

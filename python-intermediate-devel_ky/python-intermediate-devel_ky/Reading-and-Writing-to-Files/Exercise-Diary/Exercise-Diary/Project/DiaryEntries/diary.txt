@@ -1,0 +1,4 @@
+Dear diary,
+
+I love coding with python.
+

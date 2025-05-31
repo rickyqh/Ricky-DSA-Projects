@@ -1,0 +1,30 @@
+{
+  "title": "Exercise: Fruit List",
+  "description": "",
+  "filepath": "Lists/Exercise-Fruit-List/Exercise-Fruit-List.zip",
+  "author": "",
+  "timeCreated": "2024-02-18T04:08:03.525Z",
+  "timeUpdated": "2024-03-21T04:44:50.617Z",
+  "isGroupProject": false,
+  "dueDate": "",
+  "isPublished": false,
+  "templateTests": [
+    {
+      "name": "test 1",
+      "input": "banana\napple\npineapple\norange",
+      "output": "Enter the first fruit: Enter the second fruit: Enter the third fruit: Enter the fourth fruit: The first fruit in the list is banana\nThe last fruit in the list is orange\nBANANA\nPINEAPPLE\nORANGE",
+      "type": "match",
+      "timeCreated": "2024-03-08T15:10:49.246Z",
+      "timeUpdated": "2024-03-08T15:10:49.246Z"
+    },
+    {
+      "name": "test 2",
+      "input": "guava\ncherry\ndurian\njackfruit",
+      "output": "Enter the first fruit: Enter the second fruit: Enter the third fruit: Enter the fourth fruit: The first fruit in the list is guava\nThe last fruit in the list is jackfruit\nGUAVA\nDURIAN\nJACKFRUIT",
+      "type": "match",
+      "timeCreated": "2024-03-08T15:14:12.817Z",
+      "timeUpdated": "2024-03-08T15:14:12.817Z"
+    }
+  ],
+  "unitTests": []
+}

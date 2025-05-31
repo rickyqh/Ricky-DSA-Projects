@@ -1,0 +1,10 @@
+United States, Washington D.C.
+Canada, Ottawa
+United Kingdom, London
+Australia, Canberra
+Germany, Berlin
+France, Paris
+Japan, Tokyo
+China, Beijing
+India, New Delhi
+Brazil, Brasilia

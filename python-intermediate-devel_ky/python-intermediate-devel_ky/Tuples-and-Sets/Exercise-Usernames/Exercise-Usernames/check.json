@@ -1,0 +1,22 @@
+{
+  "title": "Exercise: Usernames",
+  "description": "",
+  "filepath": "Tuples-and-Sets/Exercise-Usernames/Exercise-Usernames.zip",
+  "author": "",
+  "timeCreated": "2024-04-22T11:00:18.570Z",
+  "timeUpdated": "2024-04-22T13:17:47.653Z",
+  "isGroupProject": false,
+  "dueDate": "",
+  "isPublished": false,
+  "templateTests": [
+    {
+      "name": "test 1",
+      "input": "",
+      "output": "['alex123', 'casey_m', 'jessie_k', 'nova_star', 'theyoungmaker']",
+      "type": "exact",
+      "timeCreated": "2024-04-22T11:00:18.584Z",
+      "timeUpdated": "2024-04-22T11:00:18.584Z"
+    }
+  ],
+  "unitTests": []
+}
